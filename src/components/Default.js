@@ -29,7 +29,7 @@ const Default = () => {
   if (isLoading) {
     return (
       <div className={classes.notFound}>
-        <p>Getting data...</p>
+        <h4 style={{color:'white'}}>Getting data...</h4>
       </div>
     );
   }
