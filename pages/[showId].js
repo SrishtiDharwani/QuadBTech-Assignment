@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import Button from "react-bootstrap/Button";
-import Navbar from "../src/components/navbar";
+import Navbar from "../src/components/Navbar";
 import classes from "../src/components/Default.module.css";
 
 export default function Page() {
