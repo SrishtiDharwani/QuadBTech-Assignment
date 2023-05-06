@@ -1,0 +1,15 @@
+.container{
+    width:100vw;
+    background-color: #394867;
+    height:6rem;
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+    text-decoration: none;
+}
+.head {
+    color:#F1F6F9;
+    text-decoration:none;
+    font-size: 3rem;
+    font-weight: 800;
+}

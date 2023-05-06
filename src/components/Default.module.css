@@ -1,0 +1,60 @@
+.error {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  background-color: #2e385d;
+  border-radius: 1rem;
+  margin: 300px;
+}
+
+.notFound {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  background-color: #2e385d;
+  border-radius: 1rem;
+  margin: 100px;
+}
+.summary {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.summhead {
+  display: flex;
+  width: 76vw;
+  margin-top: 3rem;
+}
+.text {
+  font-size: 20px;
+  padding: 0rem 10rem 2rem 10rem;
+}
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 5rem;
+  align-items: center;
+  justify-content: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.field {
+  width: 40vw;
+  margin: 5px;
+  height: 40px;
+  border-radius: 0.5rem;
+  background-color: #f1f6f9;
+  color: black;
+}
+
+.label {
+  margin-left: 0.5rem;
+}
